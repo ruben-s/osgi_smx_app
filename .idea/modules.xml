@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/osgi_smx_app.iml" filepath="$PROJECT_DIR$/osgi_smx_app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rsa-repo/test-rsa-repo.iml" filepath="$PROJECT_DIR$/test-rsa-repo/test-rsa-repo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/test-rsa-ui/test-rsa-ui.iml" filepath="$PROJECT_DIR$/test-rsa-ui/test-rsa-ui.iml" />
+    </modules>
+  </component>
+</project>
